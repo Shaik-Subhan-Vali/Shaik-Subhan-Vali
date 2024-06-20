@@ -15,7 +15,7 @@
 - Testing: Selenium, Cypress, Postman
 - Databases: MySQL
 - DevOps & Other Tools: Git, Jenkins
-- 
+
 ### Connect with Me
 - GitHub: [Shaik-Subhan-vali](https://github.com/Shaik-Subhan-Vali)
 - LinkedIn: [Shaik-Subhan-vali](https://www.linkedin.com/in/subhanvali/)
