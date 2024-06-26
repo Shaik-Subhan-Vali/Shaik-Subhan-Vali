@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Postman-API, Mobile Testing etc.**
   
-- 💬 Ask me about **HTML, CSS, Java Script, Selenium, Cypress.**
+- 💬 Ask me about **HTML, CSS, Java Script, Selenium and Cypress.**
 
 - 📫 How to reach me **Subhanshaik7781@gmail.com**
 
