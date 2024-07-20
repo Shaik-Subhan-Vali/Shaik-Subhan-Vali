@@ -72,4 +72,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-Subhan-Vali&show_icons=true&locale=en&layout=compact" alt="Shaik-Subhan-Vali" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shaik%20Subhan%20Vali&theme=yellowdark&hide_border=true&card_width=484&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
