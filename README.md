@@ -72,3 +72,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-Subhan-Vali&show_icons=true&locale=en&layout=compact" alt="Shaik-Subhan-Vali" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shaik%20Subhan%20Vali&theme=yellowdark&hide_border=true&card_width=484&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
