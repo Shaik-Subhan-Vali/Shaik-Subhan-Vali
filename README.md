@@ -19,6 +19,7 @@
   
 - ⚡ Fun fact -> **All code is guilty until it's proven innocent !**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subhanvali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanvali" height="30" width="40" /></a>
