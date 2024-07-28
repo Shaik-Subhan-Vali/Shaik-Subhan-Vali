@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Postman-API, Mobile Testing etc.**
+- 🌱 I’m currently learning **Mobile Testing,Performance testing etc.**
   
 - 💬 Ask me about **HTML, CSS, Java Script, Selenium and Cypress.**
 
