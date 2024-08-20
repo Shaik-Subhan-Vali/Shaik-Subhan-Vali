@@ -18,7 +18,7 @@
 
 - 📄 Know about my experience [Resume](https://drive.google.com/file/d/1FUhFzz-PiSmP18_AqDn0pWhV_OBpXjrO/view?usp=sharing)
   
-- ⚡ Fun fact -> **All code is guilty until it's proven innocent !**
+- ⚡ Fun Fact -> **All code is guilty until it's proven innocent !**
 
 
 <h3 align="left">Connect with me:</h3>
