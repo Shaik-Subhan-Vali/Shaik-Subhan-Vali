@@ -72,5 +72,24 @@
   </a>
 </p>
 
+### Projects
+
+1. **[Functional Testing Project](https://github.com/Shaik-Subhan-Vali/Kushi-Travels-ManualTesting)**
+   - Explored the application under test to define its scope and developed test requirements, including detailed test scenarios and test cases.
+   - Created comprehensive test cases to ensure thorough coverage of the application’s functional requirements.
+   - Conducted rigorous testing and systematically documented and reported identified issues across multiple browsers.
+
+2. **[Cypress JavaScript Automation for E-Commerce](https://github.com/Shaik-Subhan-Vali/Daily-Practise-JavaScript)**  
+   - Performed functional and usability testing using Cypress with JavaScript.
+   - Tested diverse modules and scenarios, documenting and reporting discovered bugs.
+   
+3. **[Selenium Java Automation on Web Application](https://github.com/Shaik-Subhan-Vali/OpenCart)**  
+   - Engineered Automated test cases using Selenium Java and Chrome Driver employed POM design framework.
+   - Utilized Test NG for reporting and data providers, employed data driven testing through MS Excel using Apache POI.
+
+4. **[API Testing using RestAssured](https://github.com/Shaik-Subhan-Vali/Beeceptor-API-Rest-and-Cypress)**  
+   - Automated API testing in Java using RestAssured, ensuring smooth data transactions and consistent API responses.
+   - Perform different types of HTTP requests like GET, POST, PUT & DELETE
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-Subhan-Vali&show_icons=true&locale=en&layout=compact" alt="Shaik-Subhan-Vali" /></p>
 
