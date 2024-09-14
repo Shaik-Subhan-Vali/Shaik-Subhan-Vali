@@ -89,7 +89,7 @@
 
 4. **[API Testing using RestAssured](https://github.com/Shaik-Subhan-Vali/Beeceptor-API-Rest-and-Cypress)**  
    - Automated API testing in Java using RestAssured, ensuring smooth data transactions and consistent API responses.
-   - Perform different types of HTTP requests like GET, POST, PUT & DELETE
+   - Perform different types of HTTP requests like GET, POST, PUT & DELETE.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-Subhan-Vali&show_icons=true&locale=en&layout=compact" alt="Shaik-Subhan-Vali" /></p>
 
